@@ -1,0 +1,9 @@
+# Dependencies (rebuilt with npm install)
+node_modules/
+
+# Environment settings (create a new .env on each machine)
+.env
+
+# Logs
+*.log
+npm-debug.log*
